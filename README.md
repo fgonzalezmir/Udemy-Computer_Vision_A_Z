@@ -1,5 +1,6 @@
 # Udemy-Computer_Vision_A_Z
 Curso de Udemy de Computer Vision A - Z
+
 https://www.udemy.com/computer-vision-a-z
 
 Module 1 - Face Detection with OpenCV
